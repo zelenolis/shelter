@@ -60,7 +60,7 @@ h1 {
 .navigation .active, a:hover {
     color: #FAFAFA;
     border-bottom: 3px solid #F1CDB3;
-  }
+}
 
 /* topscreen article and start image */
 .topscr {
@@ -145,7 +145,7 @@ h1 {
     max-width: 100%;
 }
 
-/*pets carousel*/
+/*------------------PETS----CAROUSEL-----------------*/
 .ourpets {
     margin: auto;
     max-width: 1280px;
@@ -181,7 +181,7 @@ h1 {
 }
 .slide {
     margin: 0 45px;
-    background-color: white;
+    background-color: #FAFAFA;
 }
 .leftbut {
     background-image: url(../../assets/icons/arrow-l.png);
@@ -208,13 +208,17 @@ h1 {
     border: 2px solid #F1CDB3;
     display: block;
     margin: auto;
+    color: #292929;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.7rem;
+    margin-bottom: 30px;
 }
 .but {
     text-align: center;
     margin-top: 120px;
 }
 
-/*Help us block*/
+/*--------------HELP----US----BLOCK--------------*/
 .help {    
     max-width: 1280px;
     clear: both;
